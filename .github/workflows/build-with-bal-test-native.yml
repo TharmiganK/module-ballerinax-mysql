@@ -11,7 +11,7 @@ on:
                     - Ubuntu
                     - Windows
                     - MacOS
-                default: Ubuntu and Windows
+                default: Ubuntu
             lang_tag:
                 description: Branch/Release Tag of the Ballerina Lang
                 required: true
